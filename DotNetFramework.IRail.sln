@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRail.API.Conso", "IRail.API.Conso\IRail.API.Conso.csproj", "{53D3962D-8569-4EC8-AB92-EABD37307E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D3962D-8569-4EC8-AB92-EABD37307E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D3962D-8569-4EC8-AB92-EABD37307E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D3962D-8569-4EC8-AB92-EABD37307E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D3962D-8569-4EC8-AB92-EABD37307E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA3F2B4-AEF3-4C29-BD5D-6F0CA3DC7FA3}
+	EndGlobalSection
+EndGlobal
